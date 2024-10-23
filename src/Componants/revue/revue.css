@@ -1,0 +1,12 @@
+.revuecart{
+    display: flex;
+    background: #8A7EA4;
+    
+}
+input{
+    width: 50px;
+} 
+.maindiv{
+    display: flex;
+}
+ 

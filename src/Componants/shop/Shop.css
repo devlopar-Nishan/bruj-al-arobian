@@ -1,0 +1,83 @@
+.card-body{
+    background: rgb(182, 218, 243);
+    width: 300px;
+
+}
+.btn{
+    width: 100%;
+    background: rgb(241, 155, 50);
+    padding: 8px;
+    border: none;
+    border-radius: 7px 7px 0 0;
+
+}
+.btn:hover{
+    background: rgb(241, 69, 98);
+    transition: 0.4s;
+}
+.container{
+     margin: 0px 30px;
+     
+}
+.card-taitel{
+     
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.card-taitel button{
+    
+    padding: 5px;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    background: #D7278B;
+}
+.card-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-img img{
+     
+     
+    height: 75%;
+    object-fit: cover;
+    width: 75%;
+
+
+}
+.item{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem;
+}
+.maindiv{
+    display: flex;
+    justify-content: space-around;
+}
+.quantity{
+    display: flex;
+    
+     
+}
+.quantity div{
+     font-size: 25px;
+    font-weight: 900;
+    margin: 10px;
+
+}
+.quantity div:nth-child(1){
+    background:#fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+.quantity div:nth-child(3){
+    background:#fff;
+   
+    border-radius: 5px;
+}
+.card-detal{
+    padding: 10px;
+}
+ 

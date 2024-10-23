@@ -1,0 +1,18 @@
+.main-div{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem;
+    margin-top: 20px;
+}
+.main-out{
+    display: flex;
+    justify-content: space-around;
+}
+.cart{
+    background: #e1d5d5;
+    width: 270px;
+    height: 500px;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: left;
+}

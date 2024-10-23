@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    background: gray;
+}
+.menu {
+    display: flex;
+    gap: 20px;
+}
+.menu a{
+    text-decoration: none;
+    font-size: 1.3rem;
+}

@@ -1,0 +1,66 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    background:#F0F8FF;
+    padding: 15px;
+    border-radius: 5px;
+}
+form  p{
+    text-align: center;
+    color: blue;
+}
+form h4{
+    text-align: center;
+}
+form.check{
+    text-align: center;
+}
+ input{
+    width: 300px;
+    padding: 10px;
+    margin-top: 4px;
+    border: none;
+    background: #fffeff;
+    box-shadow: 2px -3px 5px #f2b7b7;
+  border-radius: 5px;
+ }
+input:nth-child(13){
+    width: 100px;
+ 
+   margin: 0 90px;
+    padding: 5px 20px;
+    margin-top: 10px;
+    
+}
+input:focus{
+    border-color: blue;
+
+
+}
+.loginbtn{
+    padding: 14px;
+    
+}
+.loginbtn2{
+     width: 100%;
+     padding: 7px;
+     margin-top: 8px;
+     border: none;
+     background:#D76B4C;
+     border-radius: 5px;
+     
+}
+.loginbtn2:focus{
+    background: #4DAAE9;
+}
+.googlLogin{
+   text-align: center;
+}
+.check{
+    height: 30px;
+
+    width: 10px;
+}
