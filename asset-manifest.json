@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bruj-al-arobian/static/css/main.43298dd5.css",
+    "main.js": "/bruj-al-arobian/static/js/main.b3a9aa0f.js",
+    "static/js/453.7845a97f.chunk.js": "/bruj-al-arobian/static/js/453.7845a97f.chunk.js",
+    "static/media/logo.svg": "/bruj-al-arobian/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bruj-al-arobian/index.html",
+    "main.43298dd5.css.map": "/bruj-al-arobian/static/css/main.43298dd5.css.map",
+    "main.b3a9aa0f.js.map": "/bruj-al-arobian/static/js/main.b3a9aa0f.js.map",
+    "453.7845a97f.chunk.js.map": "/bruj-al-arobian/static/js/453.7845a97f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43298dd5.css",
+    "static/js/main.b3a9aa0f.js"
+  ]
+}
